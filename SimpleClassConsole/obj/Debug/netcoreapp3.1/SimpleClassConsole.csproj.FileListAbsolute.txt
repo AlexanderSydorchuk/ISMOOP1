@@ -1,0 +1,13 @@
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.exe
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.deps.json
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.json
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.dev.json
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csprojAssemblyReference.cache
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfoInputs.cache
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfo.cs
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.dll
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+C:\Users\Sasha\source\repos\OOP1\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.genruntimeconfig.cache
